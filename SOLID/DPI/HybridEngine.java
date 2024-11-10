@@ -1,9 +1,10 @@
 package DPI;
 
-public class DieselEngine implements Engine{
+public class HybridEngine implements Engine{
 
     @Override
     public void start() {
+        
     }
     
 }

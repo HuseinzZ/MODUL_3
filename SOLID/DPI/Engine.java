@@ -1,7 +1,5 @@
 package DPI;
 
-public class Engine {
-    public void start(){
-        
-    }
+public interface Engine {
+    void start();
 }
